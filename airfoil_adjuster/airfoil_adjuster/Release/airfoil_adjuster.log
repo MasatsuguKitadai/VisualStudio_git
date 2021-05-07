@@ -1,0 +1,22 @@
+﻿  airfoil_adjuster.cpp
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(43,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(47,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(51,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(57,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(67,12): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(77,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(93,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(105,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(118,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(120,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(121,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(127,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(150,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(161,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Git_share\VisualStudio_git\airfoil_adjuster\airfoil_adjuster\airfoil_adjuster.cpp(184,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating code
+  1 of 12 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  airfoil_adjuster.vcxproj -> C:\Git_share\VisualStudio_git\airfoil_adjuster\Release\airfoil_adjuster.exe
