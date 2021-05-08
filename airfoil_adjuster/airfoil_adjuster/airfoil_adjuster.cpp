@@ -9,7 +9,7 @@ DATE : 18/4/2021
 #include <sys/stat.h>
 #include <math.h>
 #include <direct.h>
-#define num 10000
+#define num 1000
 
 double coordinate[num][3];
 char airfoil_name[100];
@@ -91,6 +91,13 @@ int main()
     printf("\n”CˆÓ‚Ì—ƒŒ·’·(mm)‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢\n\n");
     printf("CHORDF");
     scanf("%d", &chord);
+
+    // zÀ•W‚Ìã‰º‚ğ”½“]‚³‚¹‚é
+
+    for (i = 0; i < data_long; i++)
+    {
+        coordinate[i][3] = (-1.0) * coordinate[i][3];
+    }
 
     // w’è‚³‚ê‚½—ƒŒ·’·‚ÉC³‚·‚é
 
